@@ -1,8 +1,8 @@
-# Dataset Métricas de Conectividade de Software
+# Dataset de Métricas de Conectividade de Software
 
 Centro Federal de Educação Tecnológica de Minas Gerais
 
-## Métricas abordadas no dataset
+### Métricas abordadas no dataset
 
 - Public Fields (PF)
 - Public Methods (PM)                   
